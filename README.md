@@ -7,5 +7,5 @@
 | <code>paste</code>     | Concatenate with spaces  |
 | <code>summarize</code>     | Create a new df  |
 | <code>distinct/code> | Distinct - same as in SQL |
-| <code>unique</code> | User for "distinct" with summarize |
+| <code>unique</code> | Use for "distinct" with summarize |
 | <code>user <- Sys.getenv("USER") gs4_auth(paste0(user, "@gmail.com"))</code> | Login to gsheets |
